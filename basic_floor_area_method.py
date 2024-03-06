@@ -14,8 +14,9 @@ room_2_width = 3.81
 room_2_length = 3.22
 
 # Bedroom 3
-room_3_width = 5.23
-room_3_length = 4.61
+room_3_width = 3.81
+room_3_length = 3.22
+
 
 # Bedroom 4
 room_4_width = 3.80
